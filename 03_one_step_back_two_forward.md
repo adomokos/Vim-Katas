@@ -1,5 +1,8 @@
-Change the text below to look like this
-(please notice the added spaces around "+")
+Change this text:
+
+var foo = "method("+argument1+","+argument2+")";
+
+to this:
 
 var foo = "method(" + argument1 + "," + argument2 + ")";
 
@@ -10,5 +13,3 @@ Steps:
 4. Leave insert mode
 5. find the next "+" with `;`
 6. Repeat with `.`
-
-var foo = "method("+argument1+","+argument2+")";
