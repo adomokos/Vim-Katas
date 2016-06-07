@@ -8,5 +8,5 @@ Suppose that we've just typed the following:
 
 You should get this:
 
-6 chairs, each costing $35, totals $
+6 chairs, each costing $35, totals $210
 
