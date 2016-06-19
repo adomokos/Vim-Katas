@@ -1,8 +1,8 @@
 Given this text:
 
 Shopping list
-  Hardware store
-      Buy new hammer
+    Hardware store
+        Buy new hammer
     Beauty parlor
         Buy nail polish remover
         Buy nails
