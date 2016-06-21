@@ -1,7 +1,7 @@
 Rename the variable 'tally' to 'counter':
 
 var tally;
-for (counter=1; tally <= 10; tally++) {
+for (tally=1; tally <= 10; tally++) {
   // Do something with tally
 };
 
