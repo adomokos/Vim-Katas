@@ -10,6 +10,6 @@ Switch between windows:
 `:cl[ose]` or `<C-w>c` - close active window
 `:on[ly]` or `<C-w>o` - keep the active window, closing the others
 
-`<C-w>=` - equalize all wvindows
+`<C-w>=` - equalize all windows
 `<C-w>_` - maximize height of the active window
 `<C-w>|` - maximize width of the active window
