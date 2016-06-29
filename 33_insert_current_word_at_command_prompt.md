@@ -1,9 +1,11 @@
 Rename the variable 'tally' to 'counter':
 
+```javascript
 var tally;
 for (tally=1; tally <= 10; tally++) {
   // Do something with tally
 };
+```
 
 Start on line 3 at the 't' character
 `*` - selects all the words 'tally'
