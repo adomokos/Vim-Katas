@@ -34,3 +34,5 @@ process(somethingInTheWay, target);
 
 But oops, try this instead of `dw`
 `"_de` - deletes the word, but does not put it into register
+
+`"_d{motion}` - deletes the word without putting it into the register
