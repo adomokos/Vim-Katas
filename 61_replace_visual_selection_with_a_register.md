@@ -1,7 +1,9 @@
 There is an easier way to swap the word "somethingInTheWay" with "collection"
 
+```javascript
 collection = getCollection();
 process(somethingInTheWay, target);
+```
 
 `yiw` - to yank the word into the yank register
 `jww` - to move to 's' char in "somethingInTheWay"
