@@ -1,6 +1,6 @@
 There is this text, delete the part "take time but eventually".
 
-This phrase take time but
+This phrase takes time but
 eventually gets to the point.
 
 `v` - enter into character-wise visual mode
