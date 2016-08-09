@@ -5,6 +5,7 @@ Let's say we recorded this macro:
 1. one
 2. two
 3. three
+4. four
 
 `qa` - record in "a" register
 `0f.r)w~` - replace "." with ")" and tile-case word
