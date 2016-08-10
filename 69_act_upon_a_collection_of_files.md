@@ -17,3 +17,10 @@ Start on the first one
 
 `:edit!` - undo all edits of the first file
 `:argdo normal @a` - run the macro in parallel
+
+`qA` - append to the previously recorded macro
+`:next` - go to the next file in buffer
+`q` - quit recording
+`22@a` - repeat the macro 22 times - in series
+
+Executing the macro in series might be slower, but if error occurs, it stops on the file where the error is.
