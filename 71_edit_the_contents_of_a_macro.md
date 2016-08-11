@@ -23,7 +23,7 @@ Edit the macro by replacing `~` with `vU`
 Remove the last J, as it will be added back  
 `"add` - replaces the current line with register a  
 
-Characterwise yank is a safer bet, try this instead:
-`0` - go back to the first char in line
-`"ay$` - yank the content of the line
-`dd` - delete the line
+Characterwise yank is a safer bet, try this instead:  
+`0` - go back to the first char in line  
+`"ay$` - yank the content of the line  
+`dd` - delete the line  
