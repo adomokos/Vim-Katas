@@ -1,6 +1,10 @@
+### Delete yank and put with unnamed register
+
 Let's say we made a mistake of typing this text:
 
+```
 Practica lvim
+```
 
 Start on the last character 'm'  
 `F space` - to search for space backwards  
