@@ -1,3 +1,5 @@
+### Grok Vim registers
+
 Given this text
 
 ```text
