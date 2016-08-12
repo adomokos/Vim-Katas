@@ -1,8 +1,9 @@
 Given this text
 
-1) This is the first block of text  
-2) Another block of text  
-
+```text
+1) This is the first block of text
+2) Another block of text
+```
 
 `"ayy` - will yank the first line into register "a"  
 `"byy` - yank the 2nd line into register "b"  

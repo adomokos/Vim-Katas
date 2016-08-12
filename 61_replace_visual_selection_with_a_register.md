@@ -1,3 +1,5 @@
+### Replace visual selection with a register
+
 There is an easier way to swap the word "somethingInTheWay" with "collection"
 
 ```javascript
