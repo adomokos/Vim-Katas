@@ -14,11 +14,11 @@ Look at this HTML sample:
 
 Do the following exercises on the text avove:
 
-`:3` - move to line 3  
+`:7` - move to line 7  
 `:print` print current line  
-`:5p` - move to line 5, print it  
-`:6d` - move to line 6 and delete it in 1 command  
-`:3,5p` - print range  
+`:9p` - move to line 9, print it  
+`:10d` - move to line 10 and delete it in 1 command  
+`:8,11p` - print range  
 `:.,$p` - print from current line ('.') to the end ('$')  
 `:%p` - % means the entire file  
 visual select multiple lines, `:'<,'>p` - prints the visual selection  

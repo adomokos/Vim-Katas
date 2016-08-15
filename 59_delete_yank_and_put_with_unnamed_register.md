@@ -15,9 +15,11 @@ Start on the last character 'm'
 
 Similar concept can be used for lines
 
+```
 2) line two  
 1) line one  
 3) line three  
+```
 
 Start on the first line  
 `dd` - to cut out the line  
