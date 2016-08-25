@@ -2,7 +2,7 @@
 
 `m{a-zA-Z}` - marks the location of the cursor
 
-`:18` - go to the 15th row  
+`:18` - go to the 18th row  
 `ma`  - mark the line  
 `G`   - go to the bottom of the page  
 `'a`  - jump back to the mark  
