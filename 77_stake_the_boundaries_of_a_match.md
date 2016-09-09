@@ -1,6 +1,7 @@
 ### Stake the boundaries of a match
 
-Sometimes we might want to specify a broad pattern, then focus on a subset of that match. Vim's `\zs` and `\ze` items allow just to do that.
+Sometimes we might want to specify a broad pattern, then focus on a subset
+of that match. Vim's `\zs` and `\ze` items allow just to do that.
 
 ```text
 Practical Vim is really a great book.
