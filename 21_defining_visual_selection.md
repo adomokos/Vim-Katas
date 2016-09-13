@@ -2,8 +2,8 @@
 
 There are 3 visual modes:  
 `v` - characterwise  
-`<C-v>` - linewise  
-`V` - blockwise  
+`<C-v>` - block  
+`V` - linewise  
 
 `gv` - reselect last visual mode
 
