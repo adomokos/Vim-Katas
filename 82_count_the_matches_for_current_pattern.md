@@ -9,5 +9,5 @@ Use it right and travelling time
 will pay off.
 ```
 
-`/time` - to search for the word 'time'
-`%s///gc` - to count the number of matches
+`/time` - to search for the word 'time'  
+`%s///gc` - to count the number of matches  
