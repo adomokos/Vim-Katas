@@ -1,9 +1,9 @@
 ### Meet the Search Command
 
 ```text
-Going to Union Station take time,
+Going to Union Station takes time,
 but this time can be an advantage.
-Use it right and travelling time
+Use it right, and travelling time
 will pay off.
 ```
 
