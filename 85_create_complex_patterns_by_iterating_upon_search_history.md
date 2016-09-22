@@ -21,4 +21,4 @@ Find this search: `/\v"[^"]+` - to edit
 
 We want to capture everything in the quotes, wrap it in parens  
 `/\v'(([^']|'\w)+)'` - this is perfect
-`:%s//"\1"/g` - replace single quotes with double by using a %1 capture register  
+`:%s//'\1'/g` - replace double quotes with single quotes by using a %1 capture register  
