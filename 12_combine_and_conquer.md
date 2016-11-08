@@ -6,7 +6,7 @@ Use this text for practicing:
 This is some text, I hope you like it.
   one more
  and more
- ```
+```
 
 Do the following exercises on it:
 
