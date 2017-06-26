@@ -36,7 +36,7 @@ process(somethingInTheWay, target);
 ```
 
 `yiw` - yanks the word collection into the register  
-`jww` - moved to the beginning of "collection"  
+`jww` - moved to the beginning of "somethingInTheWay"  
 `dw` - deletes the word  
 `P` - pastes before comma  
 
