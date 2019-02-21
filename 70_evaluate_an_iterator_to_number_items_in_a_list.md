@@ -20,11 +20,11 @@ to:
 5) golden rings
 ```
 
-Use the expression register to do the loop  
-`:let i=1` - set the i var to 1  
-`qa` - record the the macro in the 'a' register  
-`I<C-r>=i<CR>)<Esc>` - insert the value of i  
-`let i += 1` - increment i by 1  
-`q` - finish recording the macro  
+Use the expression register to do the loop
+`:let i=1` - set the i var to 1
+`qa` - record the the macro in the 'a' register
+`I<C-r>=i<CR>)<Esc>` - insert the value of i
+`let i += 1` - increment i by 1
+`q` - finish recording the macro
 
 `:'<,'>norm @a` - execute the macro on the visual selection in parallel

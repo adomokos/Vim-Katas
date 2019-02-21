@@ -8,10 +8,10 @@ Change the text in the tags to be upper-case.
 <a href="#">three</a>
 ```
 
-`{start}` - on the first line, first char  
-`gUit` - make the word 'it' inside the tag upper case  
-`j.` - go to next line and repeat  
-`j.` - go to next line and repeat  
+`{start}` - on the first line, first char
+`gUit` - make the word 'it' inside the tag upper case
+`j.` - go to next line and repeat
+`j.` - go to next line and repeat
 
 This is what the HTML snippet should look like:
 

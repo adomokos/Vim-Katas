@@ -1,9 +1,9 @@
 ### Defining visual selection
 
-There are 3 visual modes:  
-`v` - characterwise  
-`<C-v>` - block  
-`V` - linewise  
+There are 3 visual modes:
+`v` - characterwise
+`<C-v>` - block
+`V` - linewise
 
 `gv` - reselect last visual mode
 

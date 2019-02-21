@@ -17,6 +17,6 @@ to this:
 
 Moves:
 
-1. `yyp` to duplicate the last line  
-2. `cW.news<Esc>` to replace the word 'blog' with 'news'  
-3. `180<C-x>`  
+1. `yyp` to duplicate the last line
+2. `cW.news<Esc>` to replace the word 'blog' with 'news'
+3. `180<C-x>`

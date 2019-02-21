@@ -13,8 +13,8 @@ fib(42)
 
 Set `:set shiftwidth=4 softtabstop=4 expandtab`
 
-`Vj` - Visually select the line  
-`>..`- Indent the text and repeat  
+`Vj` - Visually select the line
+`>..`- Indent the text and repeat
 
 The result should look like this:
 

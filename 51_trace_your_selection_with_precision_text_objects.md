@@ -8,14 +8,14 @@ var tpl = [
 ]
 ```
 
-`vi}` - enter into visual mode, select inside }  
-`a"` - select indluding "  
-`i>` - select inside angle bracket  
-`it` - select inside tag  
-`at` - select at tag, or the whole tag  
-`a]` - select inside square bracket  
+`vi}` - enter into visual mode, select inside }
+`a"` - select indluding "
+`i>` - select inside angle bracket
+`it` - select inside tag
+`at` - select at tag, or the whole tag
+`a]` - select inside square bracket
 
 Exercise:
 
-`ci"#<Esc>` - change the url to #  
-`cit click here<Esc>` - change the {title} to 'click here'  
+`ci"#<Esc>` - change the url to #
+`cit click here<Esc>` - change the {title} to 'click here'
