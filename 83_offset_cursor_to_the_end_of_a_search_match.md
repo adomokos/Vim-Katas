@@ -10,7 +10,7 @@ Which langs would you like to learn?
 
 Task: replace "lang" with "language".
 
-`{start} on A of Aim` - initial position  
-`/lang/e<CR>` - find the word 'lang'  
-`auage<Esc>` - add "uage" to "lang"  
-`n.n.` - repeat it twice  
+`{start} on A of Aim` - initial position
+`/lang/e<CR>` - find the word 'lang'
+`auage<Esc>` - add "uage" to "lang"
+`n.n.` - repeat it twice

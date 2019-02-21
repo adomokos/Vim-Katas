@@ -12,6 +12,6 @@ strong { color: #000; }
 
 The `\v` switch make Vim's regex search like Perl, Python and Ruby.
 
-`/\v#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})` - the search works the same way, but it does not need to escape the special characters.  
-`/\v#(\x{6}|\x{3})` - will be the same as above, but it's using `\x` character class  
+`/\v#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})` - the search works the same way, but it does not need to escape the special characters.
+`/\v#(\x{6}|\x{3})` - will be the same as above, but it's using `\x` character class
 `

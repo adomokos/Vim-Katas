@@ -18,9 +18,9 @@ li.three a{ background-image: url('/components/sprite.png'); }
 
 Steps to get there:
 
-`<C-v>jje` - visual select the entire block  
-`c` - change the selection  
-`components` - type in the text 'components'  
-`<Esc>` - add the word 'components' to the other lines  
-Note, `<C-c>` is not `<Esc>` :-(  
+`<C-v>jje` - visual select the entire block
+`c` - change the selection
+`components` - type in the text 'components'
+`<Esc>` - add the word 'components' to the other lines
+Note, `<C-c>` is not `<Esc>` :-(
 
