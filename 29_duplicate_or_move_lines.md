@@ -19,6 +19,6 @@ Start at 'H' on line 7
 `:t.` - duplicate current line
 `:t$` - copy current line to end of file
 
-`:11m$` - move line 8 to the end of the file
+`:11m$` - move line 11 to the end of the file
 Visual select 2 lines
 `:'<,'>m$` move the selected lines to the end of the file
