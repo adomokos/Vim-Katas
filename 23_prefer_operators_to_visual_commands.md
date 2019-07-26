@@ -9,7 +9,7 @@ Change the text in the tags to be upper-case.
 ```
 
 `{start}` - on the first line, first char
-`gUit` - make the word 'it' inside the tag upper case
+`gUit` - make the word inside the tag ('it' ~ inside tag) upper case
 `j.` - go to next line and repeat
 `j.` - go to next line and repeat
 
