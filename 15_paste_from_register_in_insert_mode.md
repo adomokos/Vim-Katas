@@ -10,7 +10,7 @@ Read Drew Neil's
 Copy and paste the page title here:
 
 `yt,` - yanks the text 'Practical Vim
-`jA`  - jumps to the end of the second line
+`jA ` - jumps to the end of the second line and adds a space
 `<C-r>0` - pastes the text from register
 `.<Esc>` - adds the dot to the very end
 
