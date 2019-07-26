@@ -1,14 +1,6 @@
 ### Find and replace by hand
 
-Replace the first and third occurrence of "content" with "copy"
-
-Steps:
-
-1. Find the word content by `/content`
-2. Replace the word by `cw copy`
-3. Go to the next one `n`
-4. Go to the last one `n`
-5. Repeat command `.`
+Replace the first and third occurrence of "content" with "copy" in this text:
 
 ```text
 "...We're waiting for content before the site can go live...
@@ -17,3 +9,11 @@ Steps:
 
 ...We'll launch as soon as we have the content...”
 ```
+
+Steps:
+
+1. Find the word content by `/content`
+2. Replace the word by `cw copy`
+3. Go to the next one `n`
+4. Go to the last one `n`
+5. Repeat command `.`
