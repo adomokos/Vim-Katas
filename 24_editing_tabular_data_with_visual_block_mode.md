@@ -21,5 +21,5 @@ Visual Mode  |   44
 `d...` - delete the columns
 `gv` - reselects the same visual selection
 `r|` - repeats adding the pipe
-`yy` - duplicate the first row
+`yyp` - duplicate the first row
 `Vr-` - select the entire line, repeat the "-" for the row
