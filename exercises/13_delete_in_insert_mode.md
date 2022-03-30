@@ -1,6 +1,8 @@
 ### Delete in insert mode
 
+```text
 This is again some text.
+```
 
 Type the sentence again and practice these:
 
