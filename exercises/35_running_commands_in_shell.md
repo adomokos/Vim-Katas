@@ -20,3 +20,7 @@ Visual highlight the lines to be sorted
 
 `q:` will show normal mode history
 `q/` will show search history
+
+You can navigate the history with `j`, `k` or arrow buttons and repeat the command with `Enter`.
+
+To close the history window press `:q<cr>`.
