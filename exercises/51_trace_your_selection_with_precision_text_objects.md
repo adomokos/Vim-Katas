@@ -13,9 +13,10 @@ var tpl = [
 `i>` - select inside angle bracket
 `it` - select inside tag
 `at` - select at tag, or the whole tag
-`a]` - select inside square bracket
+`i]` - select inside square brackets
+`a]` - select at square brackets including ]
 
 Exercise:
 
-`ci"#<Esc>` - change the url to #
+`ci"#<Esc>` - change the {url} to #
 `cit click here<Esc>` - change the {title} to 'click here'
