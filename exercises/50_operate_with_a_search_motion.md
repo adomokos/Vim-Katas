@@ -1,12 +1,13 @@
 ### Operate with a search motion
 
-There is this text, delete the part "take time but eventually".
+Given this text, delete the part "takes time but eventually".
 
 ```
 This phrase takes time but
 eventually gets to the point.
 ```
 
+`/ta<CR>` - move the cursor to the beginning of the word "takes"
 `v` - enter into character-wise visual mode
 `/ge<CR>` - highlight 'til the word 'gets'
 `h` - moves back 1 char
