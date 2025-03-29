@@ -1,6 +1,6 @@
 ### Paste from register in insert mode
 
-Here is an unfinished excerp of text:
+Here is an unfinished excerpt of text:
 
 ```text
 Practical Vim, by Drew Neil

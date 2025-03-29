@@ -12,7 +12,7 @@ Look at this HTML sample:
 </html>
 ```
 
-Do the following exercises on the text avove:
+Do the following exercises on the text above:
 
 `:7` - move to line 7
 `:print` print current line

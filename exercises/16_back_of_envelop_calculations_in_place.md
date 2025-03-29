@@ -1,4 +1,4 @@
-### Back of envelope calcuations in place
+### Back of envelope calculations in place
 
 Suppose that we've just typed the following:
 

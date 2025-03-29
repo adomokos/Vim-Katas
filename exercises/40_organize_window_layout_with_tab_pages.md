@@ -3,7 +3,7 @@
 All about tab pages
 
 `:tabe 01..` - Open the 01 markdown file in a new tab
-`gt` - move ot next tab
+`gt` - move to next tab
 `gT` - move to previous tab
 
 `:sp 02` - open the 02 markdown file in a horizontal split window

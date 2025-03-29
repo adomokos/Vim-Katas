@@ -20,5 +20,5 @@ console.log([{'a':1},{'b':2}]);
 `dt{` - delete the '%w' part
 `%` - jump to the closing curly bracket
 `r]` - replace '}' with ']'
-`''` or `backtick backtick` (\`\`) - go to the prosition before the last jump, i.e. the location of the first curly bracket
+`''` or `backtick backtick` (\`\`) - go to the position before the last jump, i.e. the location of the first curly bracket
 `r[` - replace '{' with ']'
