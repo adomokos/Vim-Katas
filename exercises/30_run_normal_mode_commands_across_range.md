@@ -17,7 +17,7 @@ Visual select the rows
 or solve it like this:
 `:'<,'>normal A;` - executes normal command for all highlighted lines
 
-Add semi-colon to all lines in file:
+Add semicolon to all lines in file:
 `:%normal A;`
 
 Comment out an entire JS file:

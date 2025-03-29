@@ -6,10 +6,8 @@ they don't keep their boots clean.
 ```
 
 `/the` - will yield results with words where "the" is embedded, like "they"
-`/\v<the>` - will find only the exact macthes
+`/\v<the>` - will find only the exact matches
 
 The `<` and `>` are zero-width items, they represent boundaries.
 
 `/\<the\>` - will match the angle brackets as chars
-
-

@@ -9,7 +9,7 @@ var tpl = [
 ```
 
 `vi}` - enter into visual mode, select inside }
-`a"` - select indluding "
+`a"` - select including "
 `i>` - select inside angle bracket
 `it` - select inside tag
 `at` - select at tag, or the whole tag
